@@ -4,7 +4,7 @@
 
 All audio files taken from https://www.zapsplat.com/
 
-Included is an image of the audacity project, a playable exported mp3 file, a SOURCES file, 2 key moment screenshots, and this README file
+Included is an image of the audacity project, a playable exported mp3 file, a SOURCES file, 3 key moment screenshots, and this README file
 
 
 ## Reflection
