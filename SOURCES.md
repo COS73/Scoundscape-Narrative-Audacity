@@ -17,6 +17,8 @@ ZapSplat liscensing: https://www.zapsplat.com/license-type/standard-license/
 - Car crash, screeching tires: **Audio Hero**
 - Heavy wooden front door open, exterior 3: **ZapSplat**
 - Heavy wooden front door close, interior 3: **ZapSplat**
+- Loud big close lightning strike, thunder crack 1: **ZapSplat**
+- Loud big close lightning strike, thunder crack 2: **ZapSplat**
 
 ## Author Links
 - Zapsplat: https://www.zapsplat.com/author/zapsplat/
